@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MoonPay Status - Incident History</title>
+    <link>https://status.moonpay.com</link>
+    <description>Statuspage</description>
+    <pubDate>Fri, 28 Nov 2025 10:21:16 +0000</pubDate>
+    <item>
+      <title>Elevated API Errors</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue has now been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Normal asset delivery has resumed, we&apos;ll continue monitor until the issue is resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing delays with delivering ETH to some US customers. We are investigating this issue and we will provide more updates in the next few hours.&lt;/p&gt;      </description>
+      <pubDate>Fri, 21 Nov 2025 05:07:49 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/xq1zm66g7klp</link>
+      <guid>https://status.moonpay.com/incidents/xq1zm66g7klp</guid>
+    </item>
+    <item>
+      <title>MoonPay Support Portal unavailable</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Resolved - All systems are operating normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We&apos;ve spotted that our support portal support.moonpay.com is unavailable/slow, we&apos;ve identified there is an active issue with the vendor.&lt;br /&gt;Thank you for your patience whilst this issue is being resolved&lt;/p&gt;      </description>
+      <pubDate>Wed, 19 Nov 2025 18:44:04 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/phfrj9h2hbmt</link>
+      <guid>https://status.moonpay.com/incidents/phfrj9h2hbmt</guid>
+    </item>
+    <item>
+      <title>On and Offramp delivery of crypto assets are delayed</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - All systems are operating normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have detected and mitigated an issue affecting users&apos; ability to log in to MoonPay. Transaction processing remains stable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We are seeing services recovering and withdrawals are now processing - we are actively monitoring the situation and will provide another update shortly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing issues with some of MoonPay services. Following are impacted&lt;br /&gt;* Inbound and OutBound transaction processing&lt;br /&gt;* Some balances may be displayed incorrectly &lt;br /&gt;* Some payment methods are impacted&lt;br /&gt;&lt;br /&gt;We are actively investigating this and we will provide a new update as soon as possible.&lt;/p&gt;      </description>
+      <pubDate>Tue, 18 Nov 2025 15:07:00 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/y2vmbrp74lrr</link>
+      <guid>https://status.moonpay.com/incidents/y2vmbrp74lrr</guid>
+    </item>
+    <item>
+      <title>Transaction processing is delayed</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Some transaction processing was delayed due to issues with a compliance provider. We are no longer seeing delays and all affected transactions have now been processed correctly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Due to a third party issue we are experiencing some delays in transaction processing. We are investigating this issue and we will provide more updates.&lt;/p&gt;      </description>
+      <pubDate>Fri, 14 Nov 2025 15:08:01 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/fkmbcyw9pl58</link>
+      <guid>https://status.moonpay.com/incidents/fkmbcyw9pl58</guid>
+    </item>
+    <item>
+      <title>MoonPay App - Issues Sending Bitcoin</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We&apos;ve spotted that something has gone wrong. We&apos;re currently investigating the issue, and will provide an update soon.&lt;/p&gt;      </description>
+      <pubDate>Thu, 13 Nov 2025 13:25:43 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/m0bnjqxqsxvz</link>
+      <guid>https://status.moonpay.com/incidents/m0bnjqxqsxvz</guid>
+    </item>
+    <item>
+      <title>[MoonPay App] Issues with Bitcoin balances</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue has now been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently investigating an issue where some users may see incorrect or missing BTC balance information in their MoonPay accounts.&lt;br /&gt;&lt;br /&gt;Please note that all funds are safe and on-chain balances remain unaffected — you can verify them directly via blockchain explorers.&lt;br /&gt;&lt;br /&gt;Our team is working to identify the cause and restore accurate balance visibility as quickly as possible. We&apos;ll provide updates as soon as we have more information.&lt;/p&gt;      </description>
+      <pubDate>Tue, 11 Nov 2025 11:06:36 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/mhqm25ty4g37</link>
+      <guid>https://status.moonpay.com/incidents/mhqm25ty4g37</guid>
+    </item>
+    <item>
+      <title>MoonPay App - Elevated failure rates on Convert</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - It is no longer an issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We&apos;re investigating an issue with Convert failures on Solana.&lt;/p&gt;      </description>
+      <pubDate>Mon, 10 Nov 2025 21:18:28 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/kdfn2s8vf683</link>
+      <guid>https://status.moonpay.com/incidents/kdfn2s8vf683</guid>
+    </item>
+    <item>
+      <title>Issues loading Balances on MoonPay app</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue has been fixed. Loading balances is now back to normal.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The issue should now be fixed - all balances should load fine now. We&apos;ll keep monitoring the changes.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We&apos;ve spotted that something has gone wrong. We&apos;re currently investigating the issue, and will provide an update soon.&lt;/p&gt;      </description>
+      <pubDate>Thu, 06 Nov 2025 14:55:22 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/5xj4vwsjxjlh</link>
+      <guid>https://status.moonpay.com/incidents/5xj4vwsjxjlh</guid>
+    </item>
+    <item>
+      <title>Notification &amp; deep-link issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue is now resolved.&lt;br /&gt;&lt;br /&gt;Customers using the MoonPay App on iOS are advised to update to the latest app version 2.0.26.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have identified and fixed the issue. We will continue to monitor any impact. &lt;br /&gt;&lt;br /&gt;Customers are advised to update to the latest app version 2.0.26.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We&apos;ve spotted that something has gone wrong with opening deep-links and notifications. We&apos;re currently investigating the issue, and will provide an update soon.&lt;/p&gt;      </description>
+      <pubDate>Wed, 05 Nov 2025 12:12:07 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/520p0s430wrk</link>
+      <guid>https://status.moonpay.com/incidents/520p0s430wrk</guid>
+    </item>
+    <item>
+      <title>App freezes while buying tokens with a memo/tag</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue is now fixed 🎃&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We detected the issue and are now deploying a fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We&apos;ve spotted the App freezes when buying tokens that support a memo tag. We&apos;re currently investigating the issue, and will provide an update soon. You can use buy.moonpay.com in the meantime.&lt;/p&gt;      </description>
+      <pubDate>Fri, 31 Oct 2025 17:36:03 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/wgjvxc02rvp1</link>
+      <guid>https://status.moonpay.com/incidents/wgjvxc02rvp1</guid>
+    </item>
+    <item>
+      <title>Sell Transaction Delays</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Transactions are completing as normal and any delayed transactions have been processed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Sell transactions are starting to process again. We are monitoring and will update once full performance is confirmed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We&apos;ve spotted that something has gone wrong. We&apos;re currently investigating the issue, and will provide an update soon.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Due to an issue with a 3rd party provider we are experiencing some delays with sell transactions completing.&lt;/p&gt;      </description>
+      <pubDate>Fri, 31 Oct 2025 15:20:53 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/sjt9g51nhm8d</link>
+      <guid>https://status.moonpay.com/incidents/sjt9g51nhm8d</guid>
+    </item>
+    <item>
+      <title>Issues with MoonPay App user balances</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue was identified and fixed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently investigating an issue where some users may see incorrect or missing balance information in their MoonPay accounts.&lt;br /&gt;&lt;br /&gt;Please note that all funds are safe and on-chain balances remain unaffected — you can verify them directly via blockchain explorers.&lt;br /&gt;&lt;br /&gt;Our team is working to identify the cause and restore accurate balance visibility as quickly as possible. We&apos;ll provide updates as soon as we have more information.&lt;/p&gt;      </description>
+      <pubDate>Mon, 27 Oct 2025 14:41:34 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/0rprw0nlkf37</link>
+      <guid>https://status.moonpay.com/incidents/0rprw0nlkf37</guid>
+    </item>
+    <item>
+      <title>MoonPay Balances US and ACH Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Our partner is doing a scheduled maintenance on Sunday, October 26th, from 2:00 AM to 6:00 AM ET. During this time, ACH payments and MoonPay Balances will be temporarily unavailable in the US, but you can still use any of our other payment methods. Thank you so much for your patience&lt;/p&gt;      </description>
+      <pubDate>Sun, 26 Oct 2025 10:30:21 +0000</pubDate>
+      <maintenanceEndDate>Sun, 26 Oct 2025 10:30:00 +0000</maintenanceEndDate>
+      <link>https://status.moonpay.com/incidents/xbfpfff83pxt</link>
+      <guid>https://status.moonpay.com/incidents/xbfpfff83pxt</guid>
+    </item>
+    <item>
+      <title>Offramp delivery is delayed</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Processing has resumed and queued payouts are being delivered.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We’re experiencing delays for some off-ramp (sell) payouts due to an unexpected extension of a partner’s scheduled maintenance window. We’re monitoring closely and will process pending payouts as soon as service is restored.&lt;/p&gt;      </description>
+      <pubDate>Sat, 25 Oct 2025 22:54:06 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/1t1b61fr22kp</link>
+      <guid>https://status.moonpay.com/incidents/1t1b61fr22kp</guid>
+    </item>
+    <item>
+      <title>Scheduled Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - There is an upcoming scheduled maintenance and the following tokens may be suspended during the maintenance window.&lt;/p&gt;      </description>
+      <pubDate>Sat, 25 Oct 2025 21:00:21 +0000</pubDate>
+      <maintenanceEndDate>Sat, 25 Oct 2025 21:00:00 +0000</maintenanceEndDate>
+      <link>https://status.moonpay.com/incidents/t8846zmxm3xs</link>
+      <guid>https://status.moonpay.com/incidents/t8846zmxm3xs</guid>
+    </item>
+    <item>
+      <title>Scheduled Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - There is an upcoming scheduled maintenance and the following tokens may be suspended during the maintenance window.&lt;br /&gt;        NEAR&lt;br /&gt;EOS&lt;br /&gt;EOS&lt;br /&gt;SUI&lt;br /&gt;ATOM&lt;br /&gt;BERA_BERA&lt;br /&gt;MANA&lt;br /&gt;AVAX_CCHAIN&lt;br /&gt;MKR&lt;br /&gt;MKR&lt;br /&gt;POL_POLYGON&lt;br /&gt;FLOW&lt;br /&gt;IMX&lt;br /&gt;GODS&lt;br /&gt;TRUMP_SOL&lt;br /&gt;ALGO&lt;br /&gt;ADA&lt;br /&gt;HBAR&lt;br /&gt;HBAR&lt;br /&gt;BAT&lt;br /&gt;APE&lt;br /&gt;POL&lt;br /&gt;BONK_SOL&lt;br /&gt;CORE&lt;br /&gt;SHIB&lt;br /&gt;GRT&lt;br /&gt;XTZ&lt;/p&gt;      </description>
+      <pubDate>Sat, 25 Oct 2025 19:00:21 +0000</pubDate>
+      <maintenanceEndDate>Sat, 25 Oct 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://status.moonpay.com/incidents/0q99yw999x49</link>
+      <guid>https://status.moonpay.com/incidents/0q99yw999x49</guid>
+    </item>
+    <item>
+      <title>MoonPay App Balances Incorrect</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue causing some users to see incorrect or missing balances has been resolved.&lt;br /&gt;&lt;br /&gt;All balances are now displaying correctly in MoonPay. Throughout this incident, funds remained secure and were always accurately reflected on-chain.&lt;br /&gt;&lt;br /&gt;Thank you for your patience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue where some users may see incorrect or missing balance information in their MoonPay accounts.&lt;br /&gt;&lt;br /&gt;Please note that all funds are safe and on-chain balances remain unaffected — you can verify them directly via blockchain explorers.&lt;br /&gt;&lt;br /&gt;Our team is working to identify the cause and restore accurate balance visibility as quickly as possible. We’ll provide updates as soon as we have more information.&lt;/p&gt;      </description>
+      <pubDate>Wed, 22 Oct 2025 11:12:20 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/634h52tmhkzs</link>
+      <guid>https://status.moonpay.com/incidents/634h52tmhkzs</guid>
+    </item>
+    <item>
+      <title>Issues affecting login to MoonPay</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This issue is now resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We&apos;re resolving an issue affecting the ability to log into Moonpay&lt;/p&gt;      </description>
+      <pubDate>Wed, 22 Oct 2025 01:48:33 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/wjrf3wcjj9vy</link>
+      <guid>https://status.moonpay.com/incidents/wjrf3wcjj9vy</guid>
+    </item>
+    <item>
+      <title>BTC Balances are not loading on the app</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - BTC balances displaying on the app have been restored.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We&apos;ve spotted that something has gone wrong. We&apos;re currently investigating the issue while working with our balances provider, and will provide an update soon.&lt;/p&gt;      </description>
+      <pubDate>Mon, 20 Oct 2025 22:03:44 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/spqtp7nrgt20</link>
+      <guid>https://status.moonpay.com/incidents/spqtp7nrgt20</guid>
+    </item>
+    <item>
+      <title>Some features may be unavailable or degraded</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We are seeing recovery from our third party providers and service is mostly restored. Functionalities which require phone number validation might experience difficulties. We&apos;ll keep monitoring.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are investigating an incident affecting one or more third-party providers, resulting in intermittent errors and elevated latency across parts of our platform. Some features may be unavailable or degraded, including document verification, card payments, and crypto delivery for select currencies. We are working with the impacted providers to mitigate the issue and will share updates as we learn more.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We&apos;re aware of customers facing an issue of not being able to complete a transaction using cards. We&apos;re investigating the issue.&lt;/p&gt;      </description>
+      <pubDate>Mon, 20 Oct 2025 13:30:02 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/21zj6vqq5rr8</link>
+      <guid>https://status.moonpay.com/incidents/21zj6vqq5rr8</guid>
+    </item>
+    <item>
+      <title>Processing of some transactions is delayed</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The issue has been resolved. We&apos;re actively monitoring the situation to confirm continued stability.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Some transactions are currently facing a delay. We&apos;ve identified the problem and are currently working on resolving the issue.&lt;/p&gt;      </description>
+      <pubDate>Fri, 17 Oct 2025 16:04:38 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/sk0c7cv8d412</link>
+      <guid>https://status.moonpay.com/incidents/sk0c7cv8d412</guid>
+    </item>
+    <item>
+      <title>Issue displaying Tron balances</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We fixed the issue and Tron balances are now visible for all users. Thank you for your patience and sorry for the inconvenience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Some of our users can&apos;t see their Tron wallet&apos;s balance. This is caused by an issue with one of our providers that affects a subset of our users.&lt;br /&gt;&lt;br /&gt;We&apos;re still waiting for our provider to fix the issue. Yesterday was a holiday in their location so today we&apos;re hoping for a resolution. In the meantime, you can use Tronscan to view your Tron balance correctly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Some of our users can&apos;t see their Tron wallet&apos;s balance. This is caused by an issue with one of our providers that affects a subset of our users.&lt;br /&gt;&lt;br /&gt;We&apos;re collaborating with our provider to fix the issue as soon as possible, and we&apos;ll provide an update soon. In the meantime, you can use any Tron explorer (like Tronscan) to view your Tron balance correctly.&lt;/p&gt;      </description>
+      <pubDate>Tue, 14 Oct 2025 10:43:36 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/zhj7g5q175wc</link>
+      <guid>https://status.moonpay.com/incidents/zhj7g5q175wc</guid>
+    </item>
+    <item>
+      <title>Onramp delivery of some crypto assets is delayed</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We&apos;ve spotted that something has gone wrong. We&apos;re currently investigating the issue, and will provide an update soon.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating issue with delayed orders for BTC and ETH and we will provide more updates shortly.&lt;/p&gt;      </description>
+      <pubDate>Sat, 11 Oct 2025 15:48:13 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/n7rp6rxljr1m</link>
+      <guid>https://status.moonpay.com/incidents/n7rp6rxljr1m</guid>
+    </item>
+    <item>
+      <title>Onramp delivery of some crypto assets is delayed</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The orders were stuck due to big spike in network fees, all of the stuck orders are now gone through&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are seeing delays in delivering Ethereum transactions. Our team is monitoring this and we will provide update as soon as possible.&lt;/p&gt;      </description>
+      <pubDate>Sat, 11 Oct 2025 00:15:02 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/1cswgp463wmw</link>
+      <guid>https://status.moonpay.com/incidents/1cswgp463wmw</guid>
+    </item>
+    <item>
+      <title>MoonTag Request flow limited availability</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We think the impact from the issue is over.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We&apos;ve rolled out a fix. We&apos;re currently monitoring the issue, and will provide an update soon.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We&apos;ve spotted that something has gone wrong with MoonTag Request. We&apos;re currently investigating the issue, and will provide an update soon.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We&apos;ve spotted that something has gone wrong with MoonTag Request flow. We&apos;re have identified it is related to flow property using fixed-rate as the value when fetching pair limits on swaps.xyz v1.&lt;/p&gt;      </description>
+      <pubDate>Fri, 10 Oct 2025 17:56:48 +0000</pubDate>
+      <link>https://status.moonpay.com/incidents/jsl3fys2pkfg</link>
+      <guid>https://status.moonpay.com/incidents/jsl3fys2pkfg</guid>
+    </item>
+  </channel>
+</rss>
