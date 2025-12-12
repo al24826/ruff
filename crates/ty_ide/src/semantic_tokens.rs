@@ -259,7 +259,11 @@ impl<'db> SemanticTokenVisitor<'db> {
 
     fn classify_name(&self, name: &ast::ExprName) -> (SemanticTokenType, SemanticTokenModifier) {
         // First try to classify the token based on its definition kind.
-        let definition = definition_for_name(self.model, name);
+        let definition = definition_for_name(
+            self.model,
+            name,
+            ty_python_semantic::ImportAliasResolution::ResolveAliases,
+        );
 
         if let Some(definition) = definition {
             let name_str = name.id.as_str();
@@ -269,7 +273,7 @@ impl<'db> SemanticTokenVisitor<'db> {
         }
 
         // Fall back to type-based classification.
-        let ty = name.inferred_type(self.model);
+        let ty = name.inferred_type(self.model).unwrap_or(Type::unknown());
         let name_str = name.id.as_str();
         self.classify_from_type_and_name_str(ty, name_str)
     }
@@ -298,7 +302,9 @@ impl<'db> SemanticTokenVisitor<'db> {
                 let parsed = parsed_module(db, definition.file(db));
                 let ty = parameter.node(&parsed.load(db)).inferred_type(&model);
 
-                if let Type::TypeVar(type_var) = ty {
+                if let Some(ty) = ty
+                    && let Type::TypeVar(type_var) = ty
+                {
                     match type_var.typevar(db).kind(db) {
                         TypeVarKind::TypingSelf => {
                             return Some((SemanticTokenType::SelfParameter, modifiers));
@@ -340,9 +346,9 @@ impl<'db> SemanticTokenVisitor<'db> {
                     _ => None,
                 };
 
-                if let Some(value) = value {
-                    let value_ty = value.inferred_type(&model);
-
+                if let Some(value) = value
+                    && let Some(value_ty) = value.inferred_type(&model)
+                {
                     if value_ty.is_class_literal()
                         || value_ty.is_subclass_of()
                         || value_ty.is_generic_alias()
@@ -706,12 +712,12 @@ impl SourceOrderVisitor<'_> for SemanticTokenVisitor<'_> {
                 for alias in &import.names {
                     if let Some(asname) = &alias.asname {
                         // For aliased imports (from X import Y as Z), classify Z based on what Y is
-                        let ty = alias.inferred_type(self.model);
+                        let ty = alias.inferred_type(self.model).unwrap_or(Type::unknown());
                         let (token_type, modifiers) = self.classify_from_alias_type(ty, asname);
                         self.add_token(asname, token_type, modifiers);
                     } else {
                         // For direct imports (from X import Y), use semantic classification
-                        let ty = alias.inferred_type(self.model);
+                        let ty = alias.inferred_type(self.model).unwrap_or(Type::unknown());
                         let (token_type, modifiers) =
                             self.classify_from_alias_type(ty, &alias.name);
                         self.add_token(&alias.name, token_type, modifiers);
@@ -831,7 +837,7 @@ impl SourceOrderVisitor<'_> for SemanticTokenVisitor<'_> {
                 self.visit_expr(&attr.value);
 
                 // Then add token for the attribute name (e.g., 'path' in 'os.path')
-                let ty = expr.inferred_type(self.model);
+                let ty = expr.inferred_type(self.model).unwrap_or(Type::unknown());
                 let (token_type, modifiers) =
                     Self::classify_from_type_for_attribute(ty, &attr.attr);
                 self.add_token(&attr.attr, token_type, modifiers);
